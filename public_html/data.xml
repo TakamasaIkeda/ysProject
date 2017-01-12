@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--まずはマップに表示, そのあとpythonから要素を追記できるようにする-->
+<!--0:safe, 1:alert, 2:danger-->
+<markers>
+  <marker>
+    <lat>35.5556308</lat>
+    <lng>139.6508697</lng>
+    <status>0</status>
+    <name>矢上キャンパス</name>
+  </marker>
+
+  <marker>
+    <lat>35.3883883</lat>
+    <lng>139.4257678</lng>
+    <status>1</status>
+    <name>SFC</name>
+  </marker>
+
+  <marker>
+    <lat>35.5522073</lat>
+    <lng>139.6461061</lng>
+    <status>2</status>
+    <name>日吉キャンパス</name>
+  </marker>
+
+</markers>
