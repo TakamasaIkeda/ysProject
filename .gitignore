@@ -2,3 +2,4 @@
 /projectServer/**/*.pyc
 /mathworks_21606/
 /matlab/
+/.ssh
